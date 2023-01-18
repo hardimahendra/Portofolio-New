@@ -35,8 +35,10 @@
     }
     /* Home */
     .home .social-media{
-        left:55%;
+        left:0%;
         top: 59%;
+        width:50px;
+        height:200px;
     }
     .home .social-media span {
         font-size: 25px;
