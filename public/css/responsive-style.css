@@ -36,7 +36,7 @@
     /* Home */
     .home .social-media{
         left:0%;
-        top: 59%;
+        top: 60%;
         width:50px;
         height:200px;
     }
@@ -52,7 +52,7 @@
         font-family: 'Ink Free';
         font-size: 30px;
         color: var(--gold);
-        top: 47%;
+        top: 45%;
     }
     .home .garis h3 {
         font-family: 'Ink Free';
