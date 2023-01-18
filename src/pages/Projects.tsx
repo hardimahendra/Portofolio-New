@@ -45,7 +45,7 @@ export function Projects(){
                             <a href="https://linkedin.com/in/hardi-mahendra-2986a8146" target="_blank"><i className="fa-brands fa-linkedin"></i></a>
                         </ul>
                     </div>
-                    <img src="./img/AbyanPrivate.png" alt="img-project" />
+                    <img src="./img/abyanprivate.png" alt="img-project" />
                 </div>
                 <div className="project-content mx-lg-5 mx-md-3 mx-sm-2">
                     <div className="project-info">
