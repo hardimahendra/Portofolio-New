@@ -51,10 +51,10 @@ export function About(){
                         <h2>Hardi Mahendra</h2>
                         <p>Junior Web Depelover</p>
                         <ul>
-                            <a href="#"><i className="bi bi-instagram"></i></a>
-                            <a href="#"><i className="bi bi-twitter"></i></a>
-                            <a href="#"><i className="bi bi-github"></i></a>
-                            <a href="#"><i className="bi bi-linkedin"></i></a>
+                            <a href="https://instagram.com/hardimahendra_" target="_blank"><i className="bi bi-instagram"></i></a>
+                            <a href="https://twitter.com/mahendra_hardi" target="_blank"><i className="bi bi-twitter"></i></a>
+                            <a href="https://github.com/hardimahendra" target="_blank"><i className="bi bi-github"></i></a>
+                            <a href="https://linkedin.com/in/hardi-mahendra-2986a8146" target="_blank">><i className="bi bi-linkedin"></i></a>
                         </ul>
                     </div>
                 </div>
